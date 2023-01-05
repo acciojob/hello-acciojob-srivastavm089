@@ -1,1 +1,10 @@
-//your code here
+.Accio{
+	width:150px;
+	height:150px;
+	background-color:black;
+}
+.hello-accio-job{
+	color:white;
+	margin-left:32px;
+	padding:10px;
+}
